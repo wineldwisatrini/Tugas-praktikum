@@ -1,0 +1,19 @@
+.winel{
+    text-align: center;
+}
+.wineldwi_s{
+    text-align: center;
+
+}
+body{
+    margin: 0;
+    background-image: url(background/WhatsApp\ Image\ 2019-11-29\ at\ 18.35.43.jpeg);
+    text-align: center;
+}
+.content{
+    width: 80%;
+    background-color: rgba(59, 51, 59, 0.548);
+    margin: auto;
+    padding: 120px 80px;
+    
+}

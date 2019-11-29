@@ -1,0 +1,67 @@
+.navbar{
+    width : 100%;
+    background-color: rgba(128, 128, 128, 0.24);
+    padding : 15px;
+}
+span{
+    font-size: 25px;
+    color: rgb(5, 5, 5);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.nav-body{
+    width : 80%;
+    padding: 20px;
+}  
+.nav-body ul {
+   margin:0;
+   padding:0;
+   float: right;
+}
+.nav-body li {
+    display: inline;
+    font-size: 20px;
+    padding : 20px;
+}
+a{
+    color:rgb(3, 3, 3);
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+body{
+    margin: 0;
+    background-image: url(background/WINEL.jpeg);
+    
+}
+.content{
+    width: 80%;
+    background-color: rgba(59, 51, 59, 0.548);
+    margin: auto;
+    padding: 120px 80px;
+    
+}
+h1{
+    font-family: helvetica;
+    color: rgb(255, 255, 255);
+    margin: auto;
+    text-align: center;
+
+
+}
+h2{
+    font-family: helvetica;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+    color: white;
+    background: rgb(187, 83, 104);
+    width: 150px;
+    height: 40px;
+    border-radius: 4px;
+    border: none;
+    padding-top: 10px;
+    margin: auto;
+    margin-top: 20px;
+}
+h2:hover{
+    background: pink;
+}
